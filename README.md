@@ -7,6 +7,6 @@ salvo no banco de dados.
 ### Rotas
 |Método          |URL                            |Descrição                                      |
 |----------------|-------------------------------|-----------------------------------------------|
-|GET             |`localhhost/posts `            |Retorna todos os posts                         |
-|POST            |`localhhost/posts`             |Cria um post                                   |
-|POST            |`localhost//posts/:id/like`    |Dar um curtir em um post especificado pelo `id`|
+|GET             | localhhost/posts              |Retorna todos os posts                         |
+|POST            | localhhost/posts              |Cria um post                                   |
+|POST            | localhost//posts/:id/like     |Dar um curtir em um post especificado pelo `id`|
