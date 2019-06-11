@@ -4,7 +4,7 @@ armazena as imagens localmente(o ideal seria usar um CDN), responde via protocol
 salvo no banco de dados.
 
 
-## Rotas
+### Rotas
 |Método          |URL                            |Descrição                                      |
 |----------------|-------------------------------|-----------------------------------------------|
 |GET             |`localhhost/posts `            |Retorna todos os posts                         |
